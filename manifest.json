@@ -546,6 +546,19 @@
       "title": "谁还不是块砖头呢 Another brick in the wall - Pink Floyd",
       "source": "https://www.bilibili.com/video/BV1Ka4eePErR/",
       "archivedAt": "2026-11-25"
+    },
+    "BV1nY1fYsEPP": {
+      "path": "BV1nY1fYsEPP/video.mp4",
+      "type": "mp4",
+      "bytes": 8104421,
+      "width": 1280,
+      "height": 720,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "duration": 100.26,
+      "title": "Time - Pink Floyd | 吉他🎸solo",
+      "source": "https://www.bilibili.com/video/BV1nY1fYsEPP/",
+      "archivedAt": "2026-11-25"
     }
   }
 }
