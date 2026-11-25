@@ -390,6 +390,19 @@
       "title": "Pink Floyd - Another brick in the wall | Fingerstyle cover - 吉他指弹",
       "source": "https://www.bilibili.com/video/BV1bq4y1j7Wp/",
       "archivedAt": "2026-11-25"
+    },
+    "BV1b54y1V7u2": {
+      "path": "BV1b54y1V7u2/video.mp4",
+      "type": "mp4",
+      "bytes": 6068468,
+      "width": 640,
+      "height": 360,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "duration": 114.75,
+      "title": "吉他指弹 | 啊朋友再见/Bella Ciao | 感谢肩上黄尾巴的伙伴友情伴奏",
+      "source": "https://www.bilibili.com/video/BV1b54y1V7u2/",
+      "archivedAt": "2026-11-25"
     }
   }
 }
