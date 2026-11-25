@@ -715,6 +715,19 @@
       "title": "公司圣诞派对｜Let It Be 吉他 solo - The Beatles",
       "source": "local:ceda9045-f8f3-412f-8a08-10968823af2a.MP4",
       "archivedAt": "2026-11-25"
+    },
+    "2023-06-02-rehearsal": {
+      "path": "2023-06-02-rehearsal/video.mp4",
+      "type": "mp4",
+      "bytes": 15918189,
+      "width": 1280,
+      "height": 720,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "duration": 77.1,
+      "title": "乐队排练 · 2023-06-02",
+      "source": "local:1521.MP4",
+      "archivedAt": "2026-11-25"
     }
   }
 }
