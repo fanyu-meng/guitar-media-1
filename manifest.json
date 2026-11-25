@@ -130,6 +130,19 @@
       "title": "🎸吉他 solo｜Californication - Red Hot Chili Peppers （红辣椒乐队）",
       "source": "https://www.bilibili.com/video/BV1Wj411C7Yw/",
       "archivedAt": "2026-11-25"
+    },
+    "BV1Qz4y157xw": {
+      "path": "BV1Qz4y157xw/video.mp4",
+      "type": "mp4",
+      "bytes": 6627233,
+      "width": 1280,
+      "height": 720,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "duration": 28.24,
+      "title": "Wonderful tonight - Eric Clapton | 电吉他solo",
+      "source": "https://www.bilibili.com/video/BV1Qz4y157xw/",
+      "archivedAt": "2026-11-25"
     }
   }
 }
