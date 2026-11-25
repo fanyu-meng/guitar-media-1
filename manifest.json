@@ -312,6 +312,19 @@
       "title": "窦靖童 - Don't break my heart - 黑豹🎸",
       "source": "https://www.bilibili.com/video/BV1AtGp6iEAV/",
       "archivedAt": "2026-11-25"
+    },
+    "BV14i3m6VEHM": {
+      "path": "BV14i3m6VEHM/video.mp4",
+      "type": "mp4",
+      "bytes": 4380067,
+      "width": 1272,
+      "height": 704,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "duration": 28.54,
+      "title": "光辉岁月 - Beyond | 吉他 intro",
+      "source": "https://www.bilibili.com/video/BV14i3m6VEHM/",
+      "archivedAt": "2026-11-25"
     }
   }
 }
