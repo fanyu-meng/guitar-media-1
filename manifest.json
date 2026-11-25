@@ -273,6 +273,19 @@
       "title": "Yesterday - Beatles | 吉他指弹🎸",
       "source": "https://www.bilibili.com/video/BV113c5zNEVT/",
       "archivedAt": "2026-11-25"
+    },
+    "BV1XzDDBxE5m": {
+      "path": "BV1XzDDBxE5m/video.mp4",
+      "type": "mp4",
+      "bytes": 2428011,
+      "width": 1280,
+      "height": 720,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "duration": 24.81,
+      "title": "Better Call Saul - 风骚律师前奏迷幻吉他",
+      "source": "https://www.bilibili.com/video/BV1XzDDBxE5m/",
+      "archivedAt": "2026-11-25"
     }
   }
 }
