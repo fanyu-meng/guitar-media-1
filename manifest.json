@@ -416,6 +416,19 @@
       "title": "Pink Floyd - Wish you were here | 指弹吉他 - Fingerstyle Gutar Cover",
       "source": "https://www.bilibili.com/video/BV1DV411W7V5/",
       "archivedAt": "2026-11-25"
+    },
+    "BV13X4y1A7ds": {
+      "path": "BV13X4y1A7ds/video.mp4",
+      "type": "mp4",
+      "bytes": 9539358,
+      "width": 750,
+      "height": 360,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "duration": 179.61,
+      "title": "天空之城 Castle in the Sky - 久石让 | 吉他指弹 - Fingerstyle cover",
+      "source": "https://www.bilibili.com/video/BV13X4y1A7ds/",
+      "archivedAt": "2026-11-25"
     }
   }
 }
