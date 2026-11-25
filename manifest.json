@@ -52,6 +52,19 @@
       "title": "Yesterday - Beatles/甲壳虫乐队 | Fingerstyle guitar/吉他指弹",
       "source": "https://www.bilibili.com/video/BV1Vw411o7ip/",
       "archivedAt": "2026-11-25"
+    },
+    "BV1YL4y1v7qq": {
+      "path": "BV1YL4y1v7qq/video.mp4",
+      "type": "mp4",
+      "bytes": 44816908,
+      "width": 1084,
+      "height": 638,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "duration": 254.37,
+      "title": "一直很安静 - 阿桑 | 指弹吉他（再不录，就要弹吐了）",
+      "source": "https://www.bilibili.com/video/BV1YL4y1v7qq/",
+      "archivedAt": "2026-11-25"
     }
   }
 }
