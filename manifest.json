@@ -728,6 +728,19 @@
       "title": "乐队排练 · 2023-06-02",
       "source": "local:1521.MP4",
       "archivedAt": "2026-11-25"
+    },
+    "2023-07-18-rehearsal": {
+      "path": "2023-07-18-rehearsal/video.mp4",
+      "type": "mp4",
+      "bytes": 46304842,
+      "width": 960,
+      "height": 544,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "duration": 283.2,
+      "title": "乐队排练 · 2023-07-18",
+      "source": "local:852.MP4",
+      "archivedAt": "2026-11-25"
     }
   }
 }
