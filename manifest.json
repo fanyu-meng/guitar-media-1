@@ -403,6 +403,19 @@
       "title": "吉他指弹 | 啊朋友再见/Bella Ciao | 感谢肩上黄尾巴的伙伴友情伴奏",
       "source": "https://www.bilibili.com/video/BV1b54y1V7u2/",
       "archivedAt": "2026-11-25"
+    },
+    "BV1DV411W7V5": {
+      "path": "BV1DV411W7V5/video.mp4",
+      "type": "mp4",
+      "bytes": 4366838,
+      "width": 640,
+      "height": 360,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "duration": 81.81,
+      "title": "Pink Floyd - Wish you were here | 指弹吉他 - Fingerstyle Gutar Cover",
+      "source": "https://www.bilibili.com/video/BV1DV411W7V5/",
+      "archivedAt": "2026-11-25"
     }
   }
 }
