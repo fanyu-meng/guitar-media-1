@@ -143,6 +143,19 @@
       "title": "Wonderful tonight - Eric Clapton | 电吉他solo",
       "source": "https://www.bilibili.com/video/BV1Qz4y157xw/",
       "archivedAt": "2026-11-25"
+    },
+    "BV13b4y1g7Ej": {
+      "path": "BV13b4y1g7Ej/video.mp4",
+      "type": "mp4",
+      "bytes": 8560076,
+      "width": 1280,
+      "height": 720,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "duration": 34.67,
+      "title": "后来 - 刘若英｜间奏吉他🎸solo",
+      "source": "https://www.bilibili.com/video/BV13b4y1g7Ej/",
+      "archivedAt": "2026-11-25"
     }
   }
 }
