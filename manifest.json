@@ -351,6 +351,19 @@
       "title": "Song 2 - Blur 🎸",
       "source": "https://www.bilibili.com/video/BV1zAt56yEhL/",
       "archivedAt": "2026-11-25"
+    },
+    "BV1Jex86QExd": {
+      "path": "BV1Jex86QExd/video.mp4",
+      "type": "mp4",
+      "bytes": 5950810,
+      "width": 1920,
+      "height": 1080,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "duration": 30.74,
+      "title": "不再犹豫 - Beyond｜吉他🎸前奏solo",
+      "source": "https://www.bilibili.com/video/BV1Jex86QExd/",
+      "archivedAt": "2026-11-25"
     }
   }
 }
